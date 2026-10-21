@@ -1,4 +1,4 @@
-## Hello! <img src="https://tse4.mm.bing.net/th/id/OIP.c5NPFkLDMCxMbXiA-43MywHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="60" align="center">
+## Hello! 
 
 <img src="https://blogger.googleusercontent.com/img/a/AVvXsEj3WvmmpXv5DrYRbyaydRnfcVX2Ij8F-e7AGwsQ6boWXqDQ3-bg3FGERM9m9Ykx93mZFjGEVwQXJI7WSL0fpGSx1J-4iZVO1Mkr2UeiDPZn0963LJI533m1d9otSAVgs9l4td2QDORPABYjXeNxnn5wuk_I50XgQRuz2DrruKpWcTYpp6XkjpvVtgW5P0s=w1600" width="100%">
 
