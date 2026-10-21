@@ -1,6 +1,6 @@
-## Hello everyone! <img src="https://tse4.mm.bing.net/th/id/OIP.c5NPFkLDMCxMbXiA-43MywHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="60" align="center">
+## Hello! <img src="https://tse4.mm.bing.net/th/id/OIP.c5NPFkLDMCxMbXiA-43MywHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="60" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%">
+<img src="https://blogger.googleusercontent.com/img/a/AVvXsEj3WvmmpXv5DrYRbyaydRnfcVX2Ij8F-e7AGwsQ6boWXqDQ3-bg3FGERM9m9Ykx93mZFjGEVwQXJI7WSL0fpGSx1J-4iZVO1Mkr2UeiDPZn0963LJI533m1d9otSAVgs9l4td2QDORPABYjXeNxnn5wuk_I50XgQRuz2DrruKpWcTYpp6XkjpvVtgW5P0s=w1600" width="100%">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
