@@ -1,4 +1,4 @@
-## Hello everyone! <img src="assets/hello.png" width="60" align="center">
+## Hello everyone! <img src="https://tse4.mm.bing.net/th/id/OIP.c5NPFkLDMCxMbXiA-43MywHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="60" align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%">
 
