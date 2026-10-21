@@ -34,16 +34,3 @@
   <img src="https://img.shields.io/badge/ggplot2-Data%20viz-276DC3?style=flat&logo=r&logoColor=white" />
 </p>
 
-## Commits 🐍
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-
-# My GitHub contributions
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<!-- Replace with your own badge from WakaTime (Settings → Profile → Badge), or delete this line if you skip WakaTime -->
-[![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg)](https://wakatime.com/@YOUR_WAKATIME_USER_ID)
