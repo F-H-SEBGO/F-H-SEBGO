@@ -9,7 +9,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&width=600&lines=Geostatistics+%C2%B7+Machine+Learning;Subsurface+interface+reconstruction;Kriging%2C+simulation+%26+uncertainty" alt="Typing SVG" /></a>
 
 <p align="center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEj3WvmmpXv5DrYRbyaydRnfcVX2Ij8F-e7AGwsQ6boWXqDQ3-bg3FGERM9m9Ykx93mZFjGEVwQXJI7WSL0fpGSx1J-4iZVO1Mkr2UeiDPZn0963LJI533m1d9otSAVgs9l4td2QDORPABYjXeNxnn5wuk_I50XgQRuz2DrruKpWcTYpp6XkjpvVtgW5P0s=w1600" width="500">
+  <img src="https://cdn.dribbble.com/users/976984/screenshots/5615119/media/c8acff354cf3f77c27e61fff77c17a0c.gif" width="500">
 </p>
 
 📍 I'm **Hermann SEBGO**, a PhD candidate at the **Geology & Sustainable Mining Institute (GSMI), UM6P**, Morocco. My research sits at the crossroads of geostatistics and machine learning: I'm developing **TSSAP**, a hybrid geostatistical–ML framework for reconstructing hanging-wall and footwall interfaces in sparsely drilled evaporite deposits.
