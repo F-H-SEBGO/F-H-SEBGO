@@ -12,7 +12,9 @@ Picture of an iridescent gemstone. source: https://www.heroscreen.cc/2025/02/abs
 I'm a PhD candidate at the Geology & Sustainable Mining Institute (GSMI), UM6P, Morocco. My research focuses on the integration of stochastic simulation and machine learning for mineral resource estimation.
 
 🔭 Kriging, SGS, SIS, Monte Carlo, Markov chains, ML
+
 🇧🇫 From Burkina Faso, based in Morocco 🇲🇦
+
 Reach me at: Fadel.SEBGO@um6p.ma
 <p align="left">
   <a href="https://www.linkedin.com/in/fadel-hermann-sebgo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
