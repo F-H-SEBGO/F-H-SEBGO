@@ -12,12 +12,11 @@
   <img src="assets/banner.gif" width="600">
 </p>
 
-📍 I'm **Fadel Hermann SEBGO**, a PhD candidate at the **Geology & Sustainable Mining Institute (GSMI), UM6P**, Morocco. My research focuses on the integration of stochastic simulation and machine learning for mineral resource estimation.
+ I'm **Fadel Hermann SEBGO**, a PhD candidate at the **Geology & Sustainable Mining Institute (GSMI), UM6P**, Morocco. My research focuses on the integration of stochastic simulation and machine learning for mineral resource estimation.
 
-- ⚡ PhD candidate at GSMI – Mohammed VI Polytechnic University (Ben Guerir, Morocco)
 - 🔭 Kriging, SGS, SIS, Monte Carlo, Markov chains, ML
 - 🇧🇫 From Burkina Faso, based in Morocco 🇲🇦
-- 📫 Reach me at: **Fadel.SEBGO@um6p.ma**
+- Reach me at: **Fadel.SEBGO@um6p.ma**
 
 <p align="left">
   <a href="www.linkedin.com/in/fadel-hermann-sebgo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
