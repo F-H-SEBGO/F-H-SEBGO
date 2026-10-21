@@ -1,7 +1,7 @@
 <img src="assets/header.svg" width="100%">
 Hello!
 <img src="https://blogger.googleusercontent.com/img/a/AVvXsEj3WvmmpXv5DrYRbyaydRnfcVX2Ij8F-e7AGwsQ6boWXqDQ3-bg3FGERM9m9Ykx93mZFjGEVwQXJI7WSL0fpGSx1J-4iZVO1Mkr2UeiDPZn0963LJI533m1d9otSAVgs9l4td2QDORPABYjXeNxnn5wuk_I50XgQRuz2DrruKpWcTYpp6XkjpvVtgW5P0s=w1600" width="100%">
-Picture of an Iridescent gemstone. source: https://www.heroscreen.cc/2025/02/abstract-iridescent-mineral-wallpaper.html
+Picture of an iridescent gemstone. source: https://www.heroscreen.cc/2025/02/abstract-iridescent-mineral-wallpaper.html
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=F-H-SEBGO&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
