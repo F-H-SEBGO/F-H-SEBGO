@@ -12,20 +12,15 @@
   <img src="assets/banner.gif" width="600">
 </p>
 
-📍 I'm **Hermann SEBGO**, a PhD candidate at the **Geology & Sustainable Mining Institute (GSMI), UM6P**, Morocco. My research sits at the crossroads of geostatistics and machine learning: I'm developing **TSSAP**, a hybrid geostatistical–ML framework for reconstructing hanging-wall and footwall interfaces in sparsely drilled evaporite deposits.
+📍 I'm **Fadel Hermann SEBGO**, a PhD candidate at the **Geology & Sustainable Mining Institute (GSMI), UM6P**, Morocco. My research focuses on the integration of stochastic simulation and machine learning for mineral resource estimation and drillhole optimization.
 
 - ⚡ PhD candidate at GSMI – Mohammed VI Polytechnic University (Ben Guerir, Morocco)
-- 🔭 Working on subsurface interface reconstruction, kriging, geostatistical simulation and uncertainty quantification
-- 🌱 Exploring drillhole placement optimisation with MCMC and decision-focused learning
-- 📝 Currently writing up TSSAP for publication
+- 🔭 Kriging, SGS, SIS, Monte Carlo, Markov chains, ML
 - 🇧🇫 From Burkina Faso, based in Morocco 🇲🇦
-- 📫 Reach me: **your.email@example.com**
+- 📫 Reach me: **Fadel.SEBGO@um6p.ma**
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://orcid.org/YOUR_ORCID"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
-  <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
-  <a href="https://www.researchgate.net/profile/YOUR_PROFILE"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/fadel-hermann-sebgo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ## Languages and Tools:
