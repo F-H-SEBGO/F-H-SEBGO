@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 160" width="1000" height="160">
+  <title>Fadel Hermann SEBGO — PhD Candidate</title>
+
+  <!-- back wave (deep navy) -->
+  <path fill="#24205A"
+        d="M0,66 L1000,66 L1000,128
+           C880,108 760,132 600,140
+           C430,148 260,146 120,142
+           C70,140 30,138 0,136 Z"/>
+
+  <!-- middle band (muted purple) -->
+  <path fill="#3D31A6"
+        d="M0,66 L1000,66 L1000,104
+           C900,96 820,90 700,92
+           C560,95 420,98 300,92
+           C180,86 80,84 0,86 Z"/>
+
+  <!-- main banner with drips -->
+  <path fill="#5340DC"
+        d="M0,0 H1000 V82
+           C930,82 840,84 780,92
+           C755,96 748,104 742,116
+           C734,132 706,134 698,118
+           C690,104 676,98 658,100
+           C640,102 632,110 626,124
+           C616,146 584,146 574,124
+           C566,108 552,102 520,100
+           C420,96 300,84 200,80
+           C120,77 50,76 0,78 Z"/>
+
+  <!-- floating bubble -->
+  <circle cx="176" cy="126" r="26" fill="#5340DC"/>
+
+  <!-- name box -->
+  <rect x="190" y="5" width="620" height="62" rx="7" fill="#4332B8"/>
+
+  <text x="500" y="35" text-anchor="middle"
+        font-family="'Courier New', Courier, monospace" font-weight="bold"
+        font-size="23" letter-spacing="7" fill="#FFFFFF">FADEL_HERMANN_SEBGO</text>
+
+  <text x="500" y="57" text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif" font-style="italic"
+        font-size="15" fill="#FFFFFF">PhD Candidate · Stochastic Simulation, Machine Learning &amp; Resource Estimation</text>
+</svg>
