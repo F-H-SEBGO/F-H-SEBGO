@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&width=600&lines=Geostatistics+%C2%B7+Machine+LearningGeological+modeling;Kriging%2C+simulation+%26+uncertainty" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&width=600&lines=Geostatistics+%C2%B7+Machine+Learning; Geological+modeling;Kriging%2C+simulation+%26+uncertainty" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="assets/banner.gif" width="600">
