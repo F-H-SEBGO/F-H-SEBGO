@@ -3,7 +3,7 @@
 <img src="https://blogger.googleusercontent.com/img/a/AVvXsEj3WvmmpXv5DrYRbyaydRnfcVX2Ij8F-e7AGwsQ6boWXqDQ3-bg3FGERM9m9Ykx93mZFjGEVwQXJI7WSL0fpGSx1J-4iZVO1Mkr2UeiDPZn0963LJI533m1d9otSAVgs9l4td2QDORPABYjXeNxnn5wuk_I50XgQRuz2DrruKpWcTYpp6XkjpvVtgW5P0s=w1600" width="100%">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=F-H-SEBGO&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&width=600&lines=Geostatistics+%C2%B7+Machine+Learning;Geological+modeling;Kriging%2C+simulation+%26+uncertainty" alt="Typing SVG" /></a>
